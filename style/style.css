@@ -1,0 +1,20 @@
+.center-horizontal {
+	margin: auto;
+	text-align: center;
+}
+
+.vertical-25 {
+	margin-top: 150px;
+}
+
+.vertical-50 {
+	margin-top: 300px;
+}
+
+.vertical-75 {
+	margin-top: 450px;
+}
+
+.vertical-100 {
+	margin-top: 600px;
+}
